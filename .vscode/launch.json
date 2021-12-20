@@ -9,7 +9,7 @@
       "name": "Launch Test",
       "request": "launch",
       "mainClass": "Test",
-      "projectName": "AsteroidsApp_20dd7bef"
+      "projectName": "AsteroidsApp_bf334def"
     },
     {
       "type": "java",
@@ -21,9 +21,9 @@
       "type": "java",
       "name": "Launch App",
       "request": "launch",
-      "vmArgs": "--module-path C:/Users/ben.walker/Documents/JavaLibJDKs/javafx-sdk-17.0.1/lib --add-modules javafx.controls,javafx.fxml",
+      "vmArgs": "--module-path C:/Users/ben.walker/Documents/JavaTraining/Practice/Asteroids/AsteroidsApp/lib/JavaFX/javafx-sdk-17.0.1/lib --add-modules javafx.controls,javafx.fxml",
       "mainClass": "App",
-      "projectName": "AsteroidsApp_20dd7bef"
+      "projectName": "AsteroidsApp_bf334def"
     }
   ]
 }
